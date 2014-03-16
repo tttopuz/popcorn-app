@@ -52,5 +52,21 @@
     "thriller": "Thriller",
     "war": "Oorlog",
     "western": "Western"
-  }
+  },
+  	"french": "Frans",
+    "english": "Engels",
+    "spanish": "Spaans",
+    "swedish": "Zweeds",
+    "portuguese": "Portugees",
+    "romanian": "Roemeens",
+    "turkish": "Turks",
+    "dutch": "Nederlands",
+    "italian": "Italiaans",
+    "danish": "Deens",
+    "arabic": "Arabaisch",
+    "korean": "Koreaans",
+    "hungarian": "Hongaars",
+    "bulgarian": "Bulgaars",
+    "finnish": "Fins",
+    "brazilian": "Braziliaans"
 }
