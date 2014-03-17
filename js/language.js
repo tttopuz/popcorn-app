@@ -1,8 +1,8 @@
 // Handles language detection and internationalization
 i18n.configure({
     defaultLocale: 'en',
-    locales: ['ar', 'bg', 'ca', 'da', 'de', 'el', 'en', 'es', 'eu', 'fr', 'he', 'hu', 'it', 'ja', 'kr',
-              'lt', 'lv', 'nl', 'no', 'pl', 'pt', 'pt-br', 'ro', 'ru', 'sk', 'sv', 'tr', 'uk', 'zh-cn', 'zh-tw'],
+    locales: ['ar', 'ary', 'bg', 'ca',  'cs', 'da', 'de', 'el', 'en', 'es', 'eu', 'fr', 'hr', 'he', 'hu', 'it', 'is', 'ja', 'kr',
+              'lt', 'lv', 'mt', 'nl', 'no', 'pl', 'pt', 'pt-br', 'ro', 'ru', 'sk', 'sv', 'tr', 'uk', 'zh-cn', 'zh-tw'],
     directory: './language'
 });
 

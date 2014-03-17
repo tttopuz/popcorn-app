@@ -11,6 +11,7 @@ var request = require('request'),
         'spanish'   : 'Español',
         'english'   : 'English',
         'french'    : 'Français',
+        'hebrew'    : 'Hebrew',
         'turkish'   : 'Türkçe',
         'romanian'  : 'Română',
         'portuguese': 'Português',
@@ -21,8 +22,17 @@ var request = require('request'),
         'russian'   : 'Русский',
         'ukrainian' : 'Українська',
         'finnish'   : 'Suomi',
-        'latvian'	: 'Latviski',
-        'bulgarian' : 'Български'    };
+        'latvian'   : 'Latviski',
+        'maltese'   : 'maltese',
+        'polish'    : 'Polish',
+        'bulgarian' : 'Български',
+        'croatian'  : 'Hrvatski',
+        'estonian'  : 'Eesti',
+        'danish'    : 'Dansk',
+        'bosnian'   : 'Bosanski',
+        'serbian'   : 'Srpski',
+        'italian'   : 'Italiano'
+    };
 
 var findSubtitle = function (imdbId, cb) {
     var doRequest = function () {

@@ -11,7 +11,7 @@ var xmlrpc = require('xmlrpc'),
             'User-Agent': appUserAgent
         }
     }),
-    
+
     Languages = window.Languages = {
         'spa': 'Spanish',
         'eng': 'English',
@@ -20,6 +20,7 @@ var xmlrpc = require('xmlrpc'),
         'tur': 'Turkish',
         'dut': 'Dutch',
         'fre': 'French',
+        'heb': 'Hebrew',
         'ger': 'German',
         'lit': 'Lithuanian',
         'lat': 'Latvian',
@@ -27,7 +28,14 @@ var xmlrpc = require('xmlrpc'),
         'rus': 'Russian',
         'ukr': 'Ukrainian',
         'fin': 'Finnish',
-        'bul': 'Bulgarian'    },
+        'cze': 'Czech',
+        'pol': 'Polish',
+        'bul': 'Bulgarian',
+        'cro': 'Croatian',
+        'est': 'Estonian',
+        'dan': 'Danish',
+        'ita': 'Italian'
+    },
 
     token;
 

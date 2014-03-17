@@ -89,7 +89,11 @@ var playTorrent = window.playTorrent = function (torrent, subs, movieModel, call
 window.SubtitleLanguages = {
   'spanish'   : 'Español',
   'english'   : 'English',
+  'croatian'  : 'Hrvatski',
+  'bosnian'   : 'Bosanski',
+  'serbian'   : 'Srpski',
   'french'    : 'Français',
+  'hebrew'    : 'Hebrew',
   'turkish'   : 'Türkçe',
   'romanian'  : 'Română',
   'portuguese': 'Português',
@@ -98,8 +102,13 @@ window.SubtitleLanguages = {
   'german'    : 'Deutsch',
   'hungarian' : 'Magyar',
   'finnish'   : 'Suomi',
-  'bulgarian' : 'Български'};
-
+  'czech'     : 'Česky',
+  'bulgarian' : 'Български',
+  'polish'    : 'Polish',
+  'estonian'  : 'Eesti',
+  'italian'   : 'Italiano',
+  'danish'    : 'Dansk'
+};
 
 function videoError(e) {
   // video playback failed - show a message saying why
