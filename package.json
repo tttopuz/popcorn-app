@@ -5,7 +5,7 @@
     "url": "https://github.com/Yify/popcorn-app"
   },
   "main": "app://host/index.html",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "window": {
     "title": "Popcorn Time",
     "icon": "images/icon.png",
@@ -44,6 +44,6 @@
     "grunt-contrib-sass": "0.7.3",
     "grunt-contrib-watch": "0.6.0",
     "grunt": "0.4.4",
-    "grunt-node-webkit-builder": "0.1.17"
+    "grunt-node-webkit-builder": "0.1.18"
   }
 }
