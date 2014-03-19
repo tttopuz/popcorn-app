@@ -1,7 +1,7 @@
 {
-    "quit": "Stop",
+    "quit": "Afsluiten",
     "cancel": "Annuleer",
-    "beforeQuit": "Applicatie afsluiten?",
+    "beforeQuit": "Popcorn Time afsluiten?",
     "loading": "Een ogenblik geduld...",
     "loadingVideo": "Video wordt geladen, een ogenblik geduld",
     "searchLoading": "Zoeken...",
@@ -12,20 +12,20 @@
 
     "subtitledIn": "Ondertiteld in",
     "quality": "Kwaliteit",
-    "watchItNow": "Kijk nu",
+    "watchItNow": "Nu kijken",
     "durationUnit": "min",
 
     "connecting": "Verbinden...",
-    "startingDownload": "Downloaden gestart...",
+    "startingDownload": "Starten downloaden...",
     "downloading": "Downloaden...",
 
     "UpgradeVersion": "Update Popcorn Time",
     "UpgradeVersionDescription": "Popcorn Time %s is zojuist uitgekomen. Download hem nu!",
 
-    "legalDisclaimer": "Popcorn Time downloadt en uploadt films met behulp van torrents, dit kan illegaal zijn in jouw land.",
+    "legalDisclaimer": "Popcorn Time downloadt en uploadt films met behulp van torrents; dit kan illegaal zijn in jouw land.",
     "legalDisclaimerResponsible": "Wij zijn niet verantwoordelijk voor mogelijke wettelijke problemen, dus lees de voorwaarden goed alvorens de applicatie te gebruiken.",
-    "legalDisclaimerAccept": "Ik begrijp dit en wil Popcorn Time gebruiken",
-    "legalDisclaimerCancel": "Sluit Popcorn Time",
+    "legalDisclaimerAccept": "Ik accepteer",
+    "legalDisclaimerCancel": "Annuleren",
 
     "genres": {
         "all": "Populair",
@@ -44,10 +44,10 @@
         "horror": "Horror",
         "music": "Muziek",
         "musical": "Musical",
-        "mystery": "Mysterie",
+        "mystery": "Mystery",
         "romance": "Romantiek",
         "sci-fi": "Sci-Fi",
-        "short": "Kort",
+        "short": "Korte Film",
         "sport": "Sport",
         "thriller": "Thriller",
         "war": "Oorlog",
@@ -55,7 +55,7 @@
     },
     "arabic": "Arabisch",
     "bosnian": "Bosnisch",
-    "brazilian": "Braziliaans-Portugees",
+    "brazilian": "Braziliaans",
     "bulgarian": "Bulgaars",
     "croatian": "Kroatisch",
     "danish": "Deens",
